@@ -14,6 +14,6 @@ for i in message:
         state = False
         result += i.capitalize()
     if i == " ":
-        result += " :nerd: "
+        result += ":nerd: "
 
 print(result)
