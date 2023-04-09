@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oldah\\Desktop\\programovani\\C#\\Snake_game\\Snake_game.csproj",
+      "projectUniqueName": "C:\\Users\\oldah\\Desktop\\programovani\\python\\small-scripts\\Snake_game\\Snake_game.csproj",
       "projectName": "Snake_game",
-      "projectPath": "C:\\Users\\oldah\\Desktop\\programovani\\C#\\Snake_game\\Snake_game.csproj",
+      "projectPath": "C:\\Users\\oldah\\Desktop\\programovani\\python\\small-scripts\\Snake_game\\Snake_game.csproj",
       "packagesPath": "C:\\Users\\oldah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oldah\\Desktop\\programovani\\C#\\Snake_game\\obj\\",
+      "outputPath": "C:\\Users\\oldah\\Desktop\\programovani\\python\\small-scripts\\Snake_game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
